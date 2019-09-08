@@ -1,6 +1,5 @@
 # Stock Price Prediction Using Regression models
 
------------
 ### Problem Statement : Use the daily [Open, High, Low, Volume] to predict [Close] on that day using Regression models.
 
 ------------
